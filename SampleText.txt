@@ -1,1 +1,1 @@
-This gile is to check in and checkout.
+This file is to check in and checkout.
